@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <div>
+            <h1>NKEMENA GREGORY OKORO</h1>
+        </div>    
+        <p1>
+        <ul>
+          <li>nkem ok</li>
+          <li>nkemgregory@gmail.com</li>
+          <li>nk3mm</li>
+          <li>linkedin.com/nk ok</li>
+          <li>C1 Peniel Albarka plaza, western by pass</li>
+          <p>opposite federal high court, Minna. Niger state.</p>
+        </p1>
+        </head>
+<hr>
+<h2>PROFILE</h2>
+    <p>
+        My name is Nkemena Gregory Okoro. A graphic and web designer with Paritie Dynamic enterprise.<br>
+        I am a lover of science and every thing that comes with it. A very determined, strong willed and often<br> 
+        outspoken when and where neccessary. Being pro-active and continually looking to be better in<br> 
+        every aspect of life is vital to me. I am a firm believer that everything is possible if you set your mind to it.<br>
+        </p> 
+<h2> KEY SKILLS  </h2>
+        <p>
+            <ol>
+                <li>Microsoft Word</li>
+                <li>Microsoft PowerPoint</li>
+                <li>Microsoft Excel</li>
+                <li>PhotoShop</li>
+                <li>Corel Draw</li>
+                <li>Blender</li>
+                <li>Visual Studio Code</li>
+        </p>
+    
+<h2>EDUCATION</h2>
+    <p>
+        <ul>
+        <li><b>Bachelor of Computer Science</b></li>
+        <li>Godfrey Okoye University Enugu, 2011-2016</li> <br>
+        <li><b>Senior Secondary School certificate</b></li>
+        <li>Government Science Secondary School Pyakasa Abuja, 2003-2010</li>
+    </p>
+    <h2>EXPERIENCE</h2>
+    <p1>
+        <ol>
+       <li>Web & Graphic designer (Paritie Dynamic Enterprise, 2019-Present)</li>
+       <li>Teacher (G.A.S shining start international School, Suleja Niger state)</li>
+       <li>Sales representative (Peekay Gardens New haven, Enugu state)</li>
+    </p1>
+        </body>
+</html>

@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <div>
             <img style="padding-left: 80px; padding-top: 70px;"src="nkemm.jpg" width="200" height="300" alt="Nkem's picture">
             <h1 style="font-family: sans-serif;font-size: 30px;margin: 10px +50px;">NKEMENA GREGORY OKORO</h1>
@@ -54,5 +49,3 @@
        <li>Teacher (G.A.S shining start international School, Suleja Niger state)</li>
        <li>Sales representative (Peekay Gardens New haven, Enugu state)</li>
     </p1>
-        </body>
-</html>
